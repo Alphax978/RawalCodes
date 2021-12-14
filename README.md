@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="RawalCodes's GitHub Stats" src="https://github-readme-stats.RawalCodes.vercel.app/api?username=RawalJames&show_icons=true&hide_border=true" />
+  <img align="left" alt="RawalCodes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RawalJames&show_icons=true&hide_border=true" />
 
 </details>
 
