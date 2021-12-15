@@ -49,6 +49,6 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/james-rawal-89a6a1228/
+[linkedin]: https://www.linkedin.com/in/james-rawal-89a6a1228
 [instagram]: https://www.instagram.com/jjames_58
 
