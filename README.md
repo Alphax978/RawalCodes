@@ -1,4 +1,4 @@
-### Hello everyoe, I'm james - aka [RawalCodes] 👋 
+### Hello everyone, I'm james - aka [RawalCodes] 👋 
 
 
 ## I'm currently a student who's interested in programming!
